@@ -1,0 +1,37 @@
+commit d9ffe44b5ad230c9aec7aefef333cbbab433ca43
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 16:08:32 2021 +0300
+
+    add feature D
+
+commit 9b14201e1eae93774e86e67f6584f8a44326a9eb
+Merge: 703c874 8678367 2c97247
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 16:02:31 2021 +0300
+
+    Merge branches 'Feature_A' and 'Feature_B' into Feature_D
+    "merge all files"
+
+commit 703c87432abae5c9912b57e0b1be4bb5a2ee2ebe
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 15:58:44 2021 +0300
+
+    add feature C
+
+commit 2c97247bce678fea938c3fcefd00dda9cf424703
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 15:56:50 2021 +0300
+
+    add feature B
+
+commit 8678367ec7045bbba96d5009a7e8a2cf001c79a3
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 15:54:26 2021 +0300
+
+    add feature A
+
+commit a7f71ea03bad50b288b1bf20e486173e98526be5
+Author: lienema <liene.malkalne@gmail.com>
+Date:   Tue Jun 22 15:48:57 2021 +0300
+
+    add README.MD
